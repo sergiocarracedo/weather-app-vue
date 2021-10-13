@@ -11,6 +11,10 @@ npm install
 ```
 npm run serve
 ```
+### For viewing app on browser
+```
+http://localhost:8080/vue-weather-app/
+```
 
 ### Compiles and minifies for production
 ```
