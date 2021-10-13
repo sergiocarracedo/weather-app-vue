@@ -2,6 +2,10 @@
 
 Weather App using Vue.js and OpenWeatherMap API.
 
+### Clone Git Repository
+```
+cd clone github URL
+```
 ### Enter in folder
 ```
 cd weather-app-vue
