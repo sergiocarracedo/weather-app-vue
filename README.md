@@ -2,6 +2,10 @@
 
 Weather App using Vue.js and OpenWeatherMap API.
 
+### Enter in folder
+```
+cd weather-app-vue
+```
 ## Project setup
 ```
 npm install
